@@ -43,5 +43,5 @@ Driver's licence category B
 Additional information
 - high speed work
 - responsibility for achieving the result
-- sociability, diligence punctuality
+- sociability diligence punctuality
 - active life position
