@@ -1,0 +1,33 @@
+body {
+  background-color: #FFF;
+  margin: 0 auto;
+}
+.name {
+  position: relative;
+  width: 83%;
+  float: right;
+}
+.logo {
+  position: relative;
+  height: 15%;
+  width: 15%;
+  left: 11px;
+  top: 20px;
+}
+.information {
+  position: relative;
+  width: 83%;
+  float: right;
+}
+h1 {
+  background-color: #C4BFA4;
+  position: relative;
+  width: 99%;
+  float: right;
+  font-style: italic;
+}
+.Aku {
+  font-size: 30px;
+  background-color: #C4BFA4;
+  font-weight: bold;
+}
